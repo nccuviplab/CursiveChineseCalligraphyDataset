@@ -11,8 +11,8 @@ An open image dataset for cursive Chinese calligraphy text.
 	Test：9548  
 
 檔案樹：  
-	Cursive_Chinese_Calligraphy_Dataset--Training/文字/圖片  
-                                             Validation/文字/圖片  
-                                             Test/文字/圖片  
+--Training/文字/圖片  
+　Validation/文字/圖片  
+　Test/文字/圖片  
 	其中文字即為其所含圖片之標籤。  
 
