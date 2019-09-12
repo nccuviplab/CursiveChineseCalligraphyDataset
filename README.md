@@ -1,7 +1,7 @@
 # CursiveChineseCalligraphyDataset
 An open image dataset for cursive Chinese calligraphy text.
 
-###Description
+## Description
 
 本資料集為草書中文書法字資料集  
 總類別：5301(僅計算文字本身，不含suffix)  
@@ -19,7 +19,7 @@ CursiveChineseCalligraphyDataset--Training/文字/圖片
 	其中文字即為其所含圖片之標籤。  
 
 
-###Acknowledgement
+## Acknowledgement
 
 Many thanks to Mr. Liu, the administrator of https://shufa.supfree.net/, for allowing us to re-organize and re-distribute the hosted calligraphy images.
 
