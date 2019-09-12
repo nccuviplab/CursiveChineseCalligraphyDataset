@@ -12,7 +12,7 @@ An open image dataset for cursive Chinese calligraphy text.
 
 檔案樹：  
 CursiveChineseCalligraphyDataset--Training/文字/圖片  
-　　　　　　　　　　　　　　　　　Validation/文字/圖片  
-　　　　　　　　　　　　　　　　　Test/文字/圖片  
+　　　　　　　　　　　　　　　　--Validation/文字/圖片  
+　　　　　　　　　　　　　　　　--Test/文字/圖片  
 	其中文字即為其所含圖片之標籤。  
 
